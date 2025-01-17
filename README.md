@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Garrywilson&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrywilson&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Correo electronico: wilsongarry949@gmail.ccom
 ![](<p>
   Do you know what the problem is? imagine the algorithm and not program it
 </p>)
