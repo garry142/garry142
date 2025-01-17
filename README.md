@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un joven apasionado por el aprendizaje de programación, entusiasta y con ganas de crecer cada día. Me esfuerzo por mantener una actitud respetuosa y disciplinada en todo lo que hago. ¡Listo para enfrentar nuevos desafíos
+<br>I am a young man passionate about learning programming, enthusiastic and eager to grow every day. I strive to maintain a respectful and disciplined attitude in everything I do. Ready to face new challenges!
 
 
 ## 🌐 Socials:
@@ -12,8 +12,8 @@ Soy un joven apasionado por el aprendizaje de programación, entusiasta y con ga
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Garrywilson&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrywilson&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Garrywilson&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Garrywilson&icon=1&color=1)](https://visitcount.itsvg.in)
