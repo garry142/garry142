@@ -16,6 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Garrywilson&icon=1&color=1)](https://visitcount.itsvg.in)
+<p>
+  Do you know what the problem is? imagine the algorithm and not program it
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
